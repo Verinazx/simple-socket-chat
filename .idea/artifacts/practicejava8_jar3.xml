@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="practicejava8:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/practicejava8_jar3</output-path>
+    <root id="archive" name="practicejava8.jar">
+      <element id="module-output" name="practicejava8" />
+    </root>
+  </artifact>
+</component>
